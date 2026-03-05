@@ -16,26 +16,25 @@ I am a Full-Stack Engineer dedicated to building **sustainable and lasting solut
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### 1. [Taleon](https://github.com/ndang11/Taleon)
 > **Problem Statement:** Modern web applications often suffer from fragmented build processes and inconsistent architectural patterns, leading to high technical debt and difficulty scaling as the codebase grows.
 > 
 > **Solution:** Engineered a robust, modular system architecture focusing on long-term sustainability. I implemented strictly typed interfaces and specialized service layers using NestJS and Next.js to ensure the application remains maintainable and easy to onboard. I optimized the build pipelines to handle complex dependencies and resolve deployment bottlenecks.
 > 
-> **Stacks Used:** **Next.js, NestJS, TypeScript, TailwindCSS, PostgreSQL**
-
-### 2. [Full-Stack Architecture Patterns](https://github.com/ndang11) 
-*(Note: Link this to your best secondary repository or a collection of your work)*
-> **Problem Statement:** Many internal management tools lack a seamless bridge between complex backend logic and intuitive user experiences, resulting in "clunky" interfaces that hinder user productivity.
+> **Stacks Used:** **Next.js, NestJS, TypeScript, TailwindCSS, MongoDB**
+>
+> ### 2. [Expense Tracker](https://github.com/ndang11)
+> **Problem Statement:** Friction in manual financial logging and a lack of clear spending visualizations often prevent users from maintaining effective personal budgets.
 > 
-> **Solution:** Developed a series of full-stack implementations featuring real-time data synchronization and responsive dashboards. By leveraging the NestJS dependency injection system and Next.js server-side rendering, I focused on reducing initial load times and ensuring secure, role-based access control.
+> **Solution:** Developed a user-centric financial tool that streamlines the tracking of earnings and expenditures. The app provides immediate visual feedback on financial status through dynamic balance updates and categorized reporting, ensuring data remains persistent across sessions for a seamless user experience.
 > 
-> **Stacks Used:** **React, Node.js, TypeScript, Express, MongoDB**
+> **Stacks Used:** **React, JavaScript, CSS3, HTML5, LocalStorage API**
 
 ---
 
-## 📈 GitHub Activity
+##  GitHub Activity
 ![ndang11's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndang11&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndang11&layout=compact&theme=radical)
 
@@ -46,9 +45,9 @@ I am currently seeking opportunities where I can contribute to building **sustai
 
 * **Role Interests:** Full-Stack Engineer, Backend Specialist (NestJS), Frontend Engineer (React/Next.js)
 * **Availability:** Ready to contribute to your team immediately.
-* **Email:** [your-email@example.com]
-* **Location:** [City/Country]
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* **Email:** [royaltyhopsin.com]
+* **Location:** [Yaounde/Cameroon]
+* **LinkedIn:** [https://www.linkedin.com/in/ndang-ambei/]
 
 ---
 *“Code is read much more often than it is written.” – I build for the long term.*
